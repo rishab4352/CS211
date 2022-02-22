@@ -12,3 +12,7 @@ Balance.c takes an input that contains brackets such as '(', '{', or '[' and bal
 Rle.c compresses a string depending on the letter given. For example, aaabbcccc, would become a3b2c4.
 
 list.c uses pointers and struct in a linked list to organize a text input of numbers that sorts them in order.
+
+PA2
+
+Estimate.c is a file that I wrote which takes a input of a matrix and can muliply, inverse, or traspose a matrix in a given text file. After it prints the matrix and I listed all the function. I used malloc and other data structures to do so. 
