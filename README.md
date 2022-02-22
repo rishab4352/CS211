@@ -20,3 +20,7 @@ Estimate.c is a file that I wrote which takes a input of a matrix and can mulipl
 PA4
 
 Uses truthtable to read a circit description and print out all of the combinations of input varibles. There are textfiles that use a structure that will define if I use AND, NOR, OR, NAND, DECODER, MULTIPLEXER. Using all of the function listed in the input it will print out an output table. 
+
+PA5
+
+Cachism.c is a cache simulator that reads, writes a file and simulate fetching. It has a read and write process and produceses an output witht he simulated number of read, write, and the cache hits and misses. 
