@@ -1,0 +1,52 @@
+2021-12-02 19:38:11,499 ERROR    Uncaught exception: [Errno 8] Exec format error: './truthtable'
+Traceback (most recent call last):
+  File "/tmp/.x2go-rrd70/media/disk/_Users_rishabdas_Desktop_CS211_Assignment-4/pa4/autograde.py", line 973, in main
+    test_project(assignment, src_dir, build_dir, data_dir, **kws)
+  File "/tmp/.x2go-rrd70/media/disk/_Users_rishabdas_Desktop_CS211_Assignment-4/pa4/autograde.py", line 743, in test_project
+    (success, credit) = t.run()
+  File "/tmp/.x2go-rrd70/media/disk/_Users_rishabdas_Desktop_CS211_Assignment-4/pa4/autograde.py", line 146, in run
+    p = subprocess.Popen(self.cmd,
+  File "/usr/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+OSError: [Errno 8] Exec format error: './truthtable'
+2021-12-02 19:38:45,409 ERROR    Uncaught exception: [Errno 8] Exec format error: './truthtable'
+Traceback (most recent call last):
+  File "/tmp/.x2go-rrd70/media/disk/_Users_rishabdas_Desktop_CS211_Assignment-4/pa4/autograde.py", line 973, in main
+    test_project(assignment, src_dir, build_dir, data_dir, **kws)
+  File "/tmp/.x2go-rrd70/media/disk/_Users_rishabdas_Desktop_CS211_Assignment-4/pa4/autograde.py", line 743, in test_project
+    (success, credit) = t.run()
+  File "/tmp/.x2go-rrd70/media/disk/_Users_rishabdas_Desktop_CS211_Assignment-4/pa4/autograde.py", line 146, in run
+    p = subprocess.Popen(self.cmd,
+  File "/usr/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+OSError: [Errno 8] Exec format error: './truthtable'
+2021-12-02 19:41:56,848 ERROR    Uncaught exception: [Errno 8] Exec format error: './truthtable'
+Traceback (most recent call last):
+  File "/tmp/.x2go-rrd70/media/disk/_Users_rishabdas_Desktop_CS211_Assignment-4/pa4/autograde.py", line 973, in main
+    test_project(assignment, src_dir, build_dir, data_dir, **kws)
+  File "/tmp/.x2go-rrd70/media/disk/_Users_rishabdas_Desktop_CS211_Assignment-4/pa4/autograde.py", line 743, in test_project
+    (success, credit) = t.run()
+  File "/tmp/.x2go-rrd70/media/disk/_Users_rishabdas_Desktop_CS211_Assignment-4/pa4/autograde.py", line 146, in run
+    p = subprocess.Popen(self.cmd,
+  File "/usr/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+OSError: [Errno 8] Exec format error: './truthtable'
+2021-12-02 19:42:17,943 ERROR    Uncaught exception: [Errno 8] Exec format error: './truthtable'
+Traceback (most recent call last):
+  File "/tmp/.x2go-rrd70/media/disk/_Users_rishabdas_Desktop_CS211_Assignment-4/pa4/autograde.py", line 973, in main
+    test_project(assignment, src_dir, build_dir, data_dir, **kws)
+  File "/tmp/.x2go-rrd70/media/disk/_Users_rishabdas_Desktop_CS211_Assignment-4/pa4/autograde.py", line 743, in test_project
+    (success, credit) = t.run()
+  File "/tmp/.x2go-rrd70/media/disk/_Users_rishabdas_Desktop_CS211_Assignment-4/pa4/autograde.py", line 146, in run
+    p = subprocess.Popen(self.cmd,
+  File "/usr/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+OSError: [Errno 8] Exec format error: './truthtable'
