@@ -16,3 +16,7 @@ list.c uses pointers and struct in a linked list to organize a text input of num
 PA2
 
 Estimate.c is a file that I wrote which takes a input of a matrix and can muliply, inverse, or traspose a matrix in a given text file. After it prints the matrix and I listed all the function. I used malloc and other data structures to do so. 
+
+PA4
+
+Uses truthtable to read a circit description and print out all of the combinations of input varibles. There are textfiles that use a structure that will define if I use AND, NOR, OR, NAND, DECODER, MULTIPLEXER. Using all of the function listed in the input it will print out an output table. 
